@@ -1,0 +1,32 @@
+aid: microenv
+name: MicroENV
+description: "Fake Rest API for developers"
+url: https://microenv.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: MicroENV
+    description: "Fake Rest API for developers"
+    humanURL: https://microenv.com/
+    baseURL: https://microenv.com/
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://microenv.com/
+common:
+  - type: Website
+    url: https://microenv.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
